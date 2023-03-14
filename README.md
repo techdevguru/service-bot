@@ -1,1 +1,2 @@
 # service-bot
+Le bot Discord est un bot personnalisé pour les serveurs Discord qui permet de créer des salons de service avec une description et un message spécifiés. Les membres du serveur peuvent ainsi facilement demander et offrir des services en créant des salons dédiés. Le bot est programmé en JavaScript avec la bibliothèque Discord.js et utilise l'API Discord pour communiquer avec les serveurs Discord. Le code source est disponible sur GitHub pour permettre à quiconque de l'utiliser, de le modifier et de le distribuer selon les termes de la licence MIT.
